@@ -52,12 +52,12 @@ function getMemeImage(){
             <fieldset className="fieldset w-full ">
                  <legend className="fieldset-legend">Top Text </legend>
                 <input type="text"  name='topText' onChange={handleChange}
-                className="input w-full" placeholder="Type here" />
+                className="input w-full" placeholder='wow' />
             </fieldset>
             <fieldset className="fieldset w-full ">
                  <legend className="fieldset-legend">Bottom Text</legend>
                 <input type="text"  name='bottomText' onChange={handleChange}
-                className="input w-full " placeholder="Type here" />
+                className="input w-full " placeholder=" You're so beautiful"/>
             </fieldset>
 
       </div>
