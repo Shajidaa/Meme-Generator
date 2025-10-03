@@ -47,7 +47,7 @@ function getMemeImage(){
 
 
     return (
-        <div className='md:mt-7 mt-5 px-7   flex flex-col bg-white'>
+        <div className='md:mt-7  px-7   flex flex-col bg-white'>
         <div className='flex flex-row justify-between gap-5 '>
             <fieldset className="fieldset w-full ">
                  <legend className="fieldset-legend">Top Text </legend>
@@ -57,7 +57,7 @@ function getMemeImage(){
             <fieldset className="fieldset w-full ">
                  <legend className="fieldset-legend">Bottom Text</legend>
                 <input type="text"  name='bottomText' onChange={handleChange}
-                className="input w-full " placeholder=" You're so beautiful"/>
+                className="input w-full " placeholder="You're beautiful" />
             </fieldset>
 
       </div>
@@ -67,7 +67,7 @@ function getMemeImage(){
          text-white bg-gradient-to-r from-[#672280] to-[#A626D3]
           w-full '>Get a new meme image  🖼</button>
       </div>
-      <div className='bg-center mt-5 max-w-full relative' >
+      <div className='bg-center mt-5 mb-5 max-w-full relative' >
         <img className='   object-contain' src={meme.imgUrl} alt="" />
       <span className=' span
                       top-0  '>{meme.topText}</span>
