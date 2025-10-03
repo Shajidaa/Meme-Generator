@@ -7,3 +7,16 @@
   font-family: "Manrope", sans-serif;
 
 }
+
+.span {
+  position: absolute;
+  text-align: center;
+  margin-block: 15px;
+  padding-inline: 5px;
+  font-size: sans-serif;
+  font-size: 2rem;
+  color: white;
+  text-transform: uppercase;
+  letter-spacing: 1px;
+
+}
