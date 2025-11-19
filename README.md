@@ -35,6 +35,6 @@ A fun and interactive **Meme Generator** built with **React**, **Vite**, and **T
 ## 📦 Installation
 
 ```bash
-git clone https://github.com/yourusername/meme-generator.git
+git clone https://github.com/Shajidaa/Meme-Generator.git
 cd meme-generator
 npm install
