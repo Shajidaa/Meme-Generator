@@ -26,7 +26,7 @@ A fun and interactive **Meme Generator** built with **React**, **Vite**, and **T
 
 
 ---
-## 🔗 (Live Demo)[memes-generator-by-shajida.netlify.app]
+## 🔗 [Live](memes-generator-by-shajida.netlify.app)
 
 
 
